@@ -3,15 +3,21 @@
         <title>All Posts - Jailbreak Scratch!</title>
         <link>https://jailbreak-scratch.github.io/posts/</link>
         <description>All Posts | Jailbreak Scratch!</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 15 Mar 2021 19:09:44 &#43;0000</lastBuildDate><atom:link href="https://jailbreak-scratch.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 04 Apr 2021 18:27:36 &#43;0100</lastBuildDate><atom:link href="https://jailbreak-scratch.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Map Progress #2</title>
+    <link>https://jailbreak-scratch.github.io/posts/2021/04/map2/</link>
+    <pubDate>Sun, 04 Apr 2021 18:27:36 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://jailbreak-scratch.github.io/posts/2021/04/map2/</guid>
+    <description><![CDATA[Horray! Another map update! This time, we are looking at what will eventually will be our main building. At the minute it&rsquo;s just a walkway into the cafeteria and there are benches to sit on.
+The divide in the cafeteria is going to be where the food is served and it will be staff only behind it. There is also a door, which will be permantly there, since this is where you enter and exit!]]></description>
+</item><item>
     <title>Map Progress #1</title>
-    <link>https://jailbreak-scratch.github.io/posts/2020/03/map1/</link>
+    <link>https://jailbreak-scratch.github.io/posts/2021/03/map1/</link>
     <pubDate>Mon, 15 Mar 2021 19:09:44 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://jailbreak-scratch.github.io/posts/2020/03/map1/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/images/Map1.webp" referrerpolicy="no-referrer">
-            </div>Welcome to the first map progress! Before I go into what this includes, remember you can always go to the github repo with the assests
+    <guid>https://jailbreak-scratch.github.io/posts/2021/03/map1/</guid>
+    <description><![CDATA[Welcome to the first map progress! Before I go into what this includes, remember you can always go to the github repo with the assests
 In this update, I have added a court with a fence (fence incomplete) and a main building with a (to-be) clickable door. The background (currently) is only grass, but I will have sand and stone as I make the map.]]></description>
 </item></channel>
 </rss>
